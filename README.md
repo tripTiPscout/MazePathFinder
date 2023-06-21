@@ -5,7 +5,7 @@ Using Breadth First Search (BFS) Algorithm to find the shortest path in a labyri
 
 ## Tech
 
-Java, Gradle
+Java 11, Gradle
 
 ## Example IO
 
